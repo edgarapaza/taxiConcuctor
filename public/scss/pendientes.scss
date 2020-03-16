@@ -1,0 +1,89 @@
+$color-azul: #1495F1;
+$color-naranja: #E2AA1C;
+$color-gris: #F0F0F0;
+
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+h2{
+	background: $color-gris;
+	color: #010202;
+}
+
+body{
+	font-family: Roboto, sans serif;
+	font-size: 16px;
+	background-image: url(../image/bg2.jpg);
+	color: white;
+}
+
+.table{
+	margin-top: 10px;
+	td{
+		padding: 10px 0px 10px 10px;
+		border-top: 1px solid $color-gris;
+		border-bottom: 1px solid $color-gris;
+	}
+}
+
+
+.botones{
+	display: block;
+	
+	.nuevosMensajes{
+		
+		padding: 20px;
+		text-align: center;
+		color: white;
+		font-style: italic;
+	}
+
+	.boton-principal{
+		display: flex;
+		background-color: $color-azul;
+		text-decoration: none;
+		color: white;
+		font-weight: bold;
+		justify-content: center;
+		align-items: center;
+		text-transform: uppercase;
+		height: 40px;
+		width: 100%;
+		&:hover{
+			width: 90%;
+		}
+	}
+}
+
+.header{
+	background-color: $color-azul;
+	color: white;
+	font-size: 1em;
+	border-radius: 10px 10px 0px 0px;
+	height: 60px;
+	text-align: center;
+	.title{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-around;
+		align-items: center;
+	}
+	.subtitle{
+		font-size: 1.2em;
+	}
+}
+
+.boton-secundario{
+	display: flex;
+	border-radius: 10px;
+	padding: 10px;
+	background-color: $color-naranja;
+	text-decoration: none;
+	color: #111111;
+	width: 122px;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}

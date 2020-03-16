@@ -1,0 +1,199 @@
+[17-Dec-2019 18:28:22 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user '
+digisjjk_usertaxi'@'localhost' (using password: YES) in /home/digisjjk/public_html/app/Model/Conexion.php on line 8
+[17-Dec-2019 18:28:22 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/digisjjk/public_html/app/Model/Conexion.php on line 9
+[17-Dec-2019 18:50:15 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user '
+digisjjk_usertaxi'@'localhost' (using password: YES) in /home/digisjjk/public_html/app/Model/Conexion.php on line 8
+[17-Dec-2019 18:50:15 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/digisjjk/public_html/app/Model/Conexion.php on line 9
+[17-Dec-2019 19:01:24 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/digisjjk/public_html/app/wsJSONConsultarUsuario.php on line 26
+[18-Dec-2019 11:49:40 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/digisjjk/public_html/app/wsJSONConsultarUsuario.php on line 26
+[18-Dec-2019 11:49:45 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/digisjjk/public_html/app/wsJSONConsultarUsuario.php on line 26
+[18-Dec-2019 22:47:30 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/digisjjk/public_html/app/wsJSONConsultarUsuario.php on line 26
+[19-Dec-2019 04:07:41 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'cpses_dimshuq4ax'@'localhost' (using password: YES) in /home/digisjjk/public_html/app/Model/Conexion.php on line 7
+[19-Dec-2019 04:07:41 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/digisjjk/public_html/app/Model/Conexion.php on line 8
+[19-Dec-2019 04:20:51 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:20:55 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:20:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:20:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:20:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:20:59 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:21:00 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:21:01 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:21:02 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:21:02 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:21:03 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:21:04 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:21:05 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:21:06 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:21:08 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:21:08 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:21:09 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:21:10 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:21:11 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:21:14 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:21:19 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:21:46 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:29:11 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:29:17 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:31:18 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:31:21 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:35:24 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:40:55 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:41:02 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:42:33 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:44:59 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 04:45:29 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsJSONRegistro.php on line 33
+[19-Dec-2019 14:47:45 America/New_York] PHP Warning:  require_once(./Model/Conexion.php): failed to open stream: No such file or directory in /home/digisjjk/public_html/app/Controller/pedirMovilidad_registro.php on line 2
+[19-Dec-2019 14:47:45 America/New_York] PHP Fatal error:  require_once(): Failed opening required './Model/Conexion.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/digisjjk/public_html/app/Controller/pedirMovilidad_registro.php on line 2
+[19-Dec-2019 14:48:04 America/New_York] PHP Warning:  require_once(./Model/Conexion.php): failed to open stream: No such file or directory in /home/digisjjk/public_html/app/Controller/pedirMovilidad_registro.php on line 2
+[19-Dec-2019 14:48:04 America/New_York] PHP Fatal error:  require_once(): Failed opening required './Model/Conexion.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/digisjjk/public_html/app/Controller/pedirMovilidad_registro.php on line 2
+[19-Dec-2019 14:48:46 America/New_York] PHP Warning:  require_once(./Model/Conexion.php): failed to open stream: No such file or directory in /home/digisjjk/public_html/app/Controller/pedirMovilidad_registro.php on line 2
+[19-Dec-2019 14:48:46 America/New_York] PHP Fatal error:  require_once(): Failed opening required './Model/Conexion.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/digisjjk/public_html/app/Controller/pedirMovilidad_registro.php on line 2
+[19-Dec-2019 22:39:28 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsRegistroCliente.php on line 33
+[19-Dec-2019 22:41:37 America/New_York] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'digisjjk_usuario'@'localhost' to database 'digisjjk_taxi1' in /home/digisjjk/public_html/app/Model/Conexion.php on line 7
+[19-Dec-2019 22:41:37 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/digisjjk/public_html/app/Model/Conexion.php on line 8
+[20-Dec-2019 06:44:10 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/digisjjk/public_html/app/Controller/wsRegistroCliente.php on line 33
+[20-Dec-2019 07:27:27 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'digisjjk_usuario'@'localhost' (using password: YES) in /home/digisjjk/public_html/app/Model/Conexion.php on line 10
+[20-Dec-2019 07:27:27 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/digisjjk/public_html/app/Model/Conexion.php on line 13
+[21-Dec-2019 06:24:29 America/New_York] PHP Notice:  Undefined variable: idauto in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php on line 19
+[21-Dec-2019 06:31:43 America/New_York] PHP Notice:  Undefined variable: idauto in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php on line 19
+[24-Dec-2019 08:34:04 America/New_York] PHP Notice:  Undefined index: password in /home/digisjjk/public_html/app/Controller/login.php on line 10
+[24-Dec-2019 08:34:15 America/New_York] PHP Notice:  Undefined index: password in /home/digisjjk/public_html/app/Controller/login.php on line 10
+[24-Dec-2019 08:34:19 America/New_York] PHP Notice:  Undefined index: password in /home/digisjjk/public_html/app/Controller/login.php on line 10
+[24-Dec-2019 08:34:41 America/New_York] PHP Notice:  Undefined index: password in /home/digisjjk/public_html/app/Controller/login.php on line 10
+[24-Dec-2019 08:36:54 America/New_York] PHP Notice:  Undefined index: password in /home/digisjjk/public_html/app/Controller/login.php on line 10
+[24-Dec-2019 08:36:59 America/New_York] PHP Notice:  Undefined index: password in /home/digisjjk/public_html/app/Controller/login.php on line 10
+[24-Dec-2019 21:29:24 America/New_York] PHP Notice:  Undefined index: password in /home/digisjjk/public_html/app/Controller/login.php on line 10
+[24-Dec-2019 21:30:00 America/New_York] PHP Notice:  Undefined index: password in /home/digisjjk/public_html/app/Controller/login.php on line 10
+[24-Dec-2019 21:30:05 America/New_York] PHP Notice:  Undefined index: password in /home/digisjjk/public_html/app/Controller/login.php on line 10
+[24-Dec-2019 21:30:13 America/New_York] PHP Notice:  Undefined index: password in /home/digisjjk/public_html/app/Controller/login.php on line 10
+[24-Dec-2019 21:30:20 America/New_York] PHP Notice:  Undefined index: password in /home/digisjjk/public_html/app/Controller/login.php on line 10
+[24-Dec-2019 21:30:24 America/New_York] PHP Notice:  Undefined index: password in /home/digisjjk/public_html/app/Controller/login.php on line 10
+[24-Dec-2019 21:30:29 America/New_York] PHP Notice:  Undefined index: password in /home/digisjjk/public_html/app/Controller/login.php on line 10
+[24-Dec-2019 21:37:46 America/New_York] PHP Notice:  Undefined index: password in /home/digisjjk/public_html/app/Controller/login.php on line 10
+[27-Dec-2019 21:05:13 America/New_York] PHP Notice:  Undefined variable: idauto in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php on line 19
+[09-Jan-2020 00:06:16 America/New_York] PHP Notice:  Undefined variable: json in /home/digisjjk/public_html/app/Controller/mensajes.php on line 31
+[09-Jan-2020 00:08:30 America/New_York] PHP Notice:  Undefined variable: json in /home/digisjjk/public_html/app/Controller/mensajes.php on line 31
+[09-Jan-2020 00:17:22 America/New_York] PHP Notice:  Undefined variable: idauto in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php on line 19
+[13-Jan-2020 21:05:21 America/New_York] PHP Notice:  Undefined variable: idauto in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php on line 19
+[14-Jan-2020 22:14:45 America/New_York] PHP Notice:  Undefined variable: idauto in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php on line 19
+[14-Jan-2020 22:15:11 America/New_York] PHP Notice:  Undefined variable: idauto in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php on line 19
+[14-Jan-2020 22:15:19 America/New_York] PHP Notice:  Undefined variable: idauto in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php on line 19
+[14-Jan-2020 23:56:44 America/New_York] PHP Notice:  Undefined variable: idauto in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php on line 19
+[25-Jan-2020 07:30:48 America/New_York] PHP Notice:  Undefined variable: idauto in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php on line 19
+[29-Jan-2020 12:56:29 America/New_York] PHP Notice:  Undefined variable: idauto in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php on line 19
+[30-Jan-2020 23:15:46 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'usuario'@'localhost' (using password: YES) in /home/digisjjk/public_html/app/Model/Conexion.php on line 10
+[30-Jan-2020 23:15:46 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/digisjjk/public_html/app/Model/Conexion.php on line 13
+[30-Jan-2020 23:19:00 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:19:00 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:19:05 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:19:05 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:19:09 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:19:09 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:19:14 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:19:14 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:19:19 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:19:19 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:19:22 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:19:22 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:19:44 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:19:44 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:19:46 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:19:46 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:19:47 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:19:47 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:19:53 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:19:53 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:19:55 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:19:55 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:20:04 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:20:04 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:20:08 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:20:08 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:20:10 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:20:10 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:20:13 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:20:13 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:20:20 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:20:20 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:20:27 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:20:27 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:20:46 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:20:46 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:21:10 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:21:10 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:23:44 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 79
+[30-Jan-2020 23:24:34 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 79
+[30-Jan-2020 23:56:11 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:56:11 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:56:17 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:56:17 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:56:20 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:56:20 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:56:24 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:56:24 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:56:28 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:56:28 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:56:32 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[30-Jan-2020 23:56:32 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[30-Jan-2020 23:56:53 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 79
+[30-Jan-2020 23:57:04 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 94
+[01-Feb-2020 05:18:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/digisjjk/public_html/app/Controller/wsRegistroCliente.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/digisjjk/public_html/app/Controller/wsRegistroCliente.php on line 71
+[19-Feb-2020 18:16:06 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[19-Feb-2020 18:16:06 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[19-Feb-2020 18:16:07 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[19-Feb-2020 18:16:07 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[20-Feb-2020 19:58:00 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[20-Feb-2020 19:58:00 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[20-Feb-2020 19:58:04 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[20-Feb-2020 19:58:04 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[20-Feb-2020 19:58:05 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[20-Feb-2020 19:58:05 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[20-Feb-2020 19:58:06 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[20-Feb-2020 19:58:06 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[20-Feb-2020 20:03:14 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[20-Feb-2020 20:03:14 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 64
+[24-Feb-2020 08:35:04 America/New_York] PHP Notice:  Undefined variable: res in /home/digisjjk/public_html/app/Model/Acciones.model.php on line 42
+[03-Mar-2020 23:40:47 America/New_York] PHP Notice:  Undefined variable: idauto in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php on line 19
+[03-Mar-2020 23:40:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php on line 49
+[03-Mar-2020 23:41:21 America/New_York] PHP Notice:  Undefined variable: idauto in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php on line 19
+[03-Mar-2020 23:41:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/digisjjk/public_html/app/Controller/wsReservaRegistro.php on line 49
+[03-Mar-2020 23:41:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/digisjjk/public_html/app/Controller/wsDeliveryRegistro.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/digisjjk/public_html/app/Controller/wsDeliveryRegistro.php on line 50
+[07-Mar-2020 19:01:59 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[07-Mar-2020 19:02:01 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[07-Mar-2020 19:02:02 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[07-Mar-2020 19:02:04 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[07-Mar-2020 19:07:36 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[09-Mar-2020 16:43:35 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/digisjjk/public_html/app/Controller/login.php on line 25
+[09-Mar-2020 16:43:38 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/digisjjk/public_html/app/Controller/login.php on line 25
+[09-Mar-2020 16:49:55 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/digisjjk/public_html/app/Controller/login.php on line 25
+[09-Mar-2020 16:53:13 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/digisjjk/public_html/app/Controller/login.php on line 23
+[09-Mar-2020 16:53:16 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/digisjjk/public_html/app/Controller/login.php on line 23
+[09-Mar-2020 16:53:21 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/digisjjk/public_html/app/Controller/login.php on line 23
+[09-Mar-2020 16:54:48 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/digisjjk/public_html/app/Controller/login.php on line 23
+[09-Mar-2020 16:56:17 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/digisjjk/public_html/app/Controller/login.php on line 23
+[09-Mar-2020 16:56:19 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/digisjjk/public_html/app/Controller/login.php on line 23
+[09-Mar-2020 16:56:34 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/digisjjk/public_html/app/Controller/login.php on line 23
+[09-Mar-2020 17:11:41 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/digisjjk/public_html/app/Controller/login.php on line 22
+[09-Mar-2020 17:12:00 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/digisjjk/public_html/app/Controller/login.php on line 22
+[09-Mar-2020 17:12:23 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/digisjjk/public_html/app/Controller/login.php on line 22
+[09-Mar-2020 17:12:32 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/digisjjk/public_html/app/Controller/login.php on line 22
+[09-Mar-2020 17:14:39 America/New_York] PHP Notice:  Undefined index: movil in /home/digisjjk/public_html/app/Controller/aceptar.controller.php on line 10
+[10-Mar-2020 00:52:34 America/New_York] PHP Notice:  Undefined index: movil in /home/digisjjk/public_html/app/Controller/aceptarReserva.controller.php on line 10
+[10-Mar-2020 01:08:07 America/New_York] PHP Notice:  Undefined index: movil in /home/digisjjk/public_html/app/Controller/aceptarReserva.controller.php on line 10
+[10-Mar-2020 01:08:48 America/New_York] PHP Notice:  Undefined index: movil in /home/digisjjk/public_html/app/Controller/aceptarReserva.controller.php on line 10
+[10-Mar-2020 02:34:10 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[10-Mar-2020 02:34:11 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[10-Mar-2020 02:34:16 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5
+[14-Mar-2020 09:51:46 America/New_York] PHP Notice:  Undefined index: idauto in /home/digisjjk/public_html/app/Controller/cerrarServicio.php on line 5

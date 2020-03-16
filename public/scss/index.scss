@@ -1,0 +1,42 @@
+$color-azul: #081F3E;
+$color-gris: #969BA0;
+$celeste: #3CBAEC;
+body{
+	background-image: url('../image/bg2.jpg');
+	font-size: 16px;
+	font-family: Roboto, sans serif;
+}
+.header{
+	display: flex;
+	justify-content: center;
+	margin-top:40px;
+}
+.formulario{
+	display: block;
+	text-align: center;
+	width: 100%;
+	
+
+	.txtCajas{
+		width: 80%;
+		padding: 20px;
+		margin: 5px;
+		font-size: 1.2em;
+	}
+
+	.boton1{
+		display: flex;
+		background-color: $color-azul;
+		text-decoration: none;
+		color: white;
+		font-weight: bold;
+		justify-content: center;
+		align-items: center;
+		text-transform: uppercase;
+		height: 40px;
+		width: 100%;
+		&:hover{
+			width: 60%;	
+		}
+	}
+}

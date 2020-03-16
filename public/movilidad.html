@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	
+	<h1>Pedir movilidad</h1>
+	<form action="../Controller/wsPedirMovilidadRegistro.php" method="get">
+		<input type="text" name="idcliente" placeholder="id cliente">
+		<select name="idauto" id="idauto">
+			<option value="M02">M02</option>
+			<option value="M03">M02</option>
+			<option value="M04">M03</option>
+			<option value="M05">M04</option>
+			<option value="M06">M05</option>
+			<option value="M10">M10</option>
+			<option value="M12">M12</option>
+		</select>
+		<input type="text" name="direccion" placeholder="direccion">
+		<input type="text" name="referencia" placeholder="referencia">
+		<input type="text" name="otros" placeholder="otros">
+		<select name="tipounidad" id="tipounidad">
+			<option value="Normal">Normal</option>
+			<option value="Ejecutivo">Ejecutivo</option>
+			<option value="Unidad de Carga">Unidad de Carga</option>
+		</select>
+
+		<button type="submit">enviar</button>
+	</form>
+</body>
+</html>
